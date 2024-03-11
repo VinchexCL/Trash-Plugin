@@ -1,0 +1,5 @@
+name: Trash
+main: club.vinchex.trash.Main
+version: 1.0
+commands:
+  trash:
